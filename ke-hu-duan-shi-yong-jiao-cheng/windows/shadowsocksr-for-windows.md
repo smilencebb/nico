@@ -13,8 +13,7 @@ description: 在 Windows PC/平板 上使用 ShadowsocksR 客户端接入流量�
 
 完成以下简单配置步骤，即可享用海豚湾云服务。\(阁下可能需要花5~10分钟左右的时间完成教程\)
 
-{% tabs %}
-{% tab title="第一步\(软件安装\)" %}
+
 #### **请使用浏览器打开 海豚湾 用户中心 -查看快速添加节点**
 
 ![](../../.gitbook/assets/image%20%2840%29.png)
@@ -57,6 +56,5 @@ description: 在 Windows PC/平板 上使用 ShadowsocksR 客户端接入流量�
 ![](../../.gitbook/assets/image%20%2834%29.png)
 
 > 现在您可以享受 海豚湾云服务 接入点带来的全新国际网络访问体验。
-{% endtab %}
-{% endtabs %}
+
 
