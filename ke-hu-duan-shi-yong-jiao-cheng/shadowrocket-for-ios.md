@@ -65,11 +65,11 @@ description: 在 iOS 设备上使用 Shadowrocket 接入流量中继服务
 
 \*\*\*\*[**配置文件1**](https://raw.githubusercontent.com/lhie1/Rules/master/Shadowrocket.conf) **或** [**配置文件2**](https://raw.githubusercontent.com/scomper/Surge/master/surge.conf)   ****并粘贴到客户端中，点击下载。
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
 > 点击远程文件下面我们刚刚添加的配置，选择 **使用配置** ，配置文件会进行更新，更新完成显示成功即可。
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2848%29.png)
 
 ![](../.gitbook/assets/image%20%2823%29.png)
 
@@ -77,7 +77,7 @@ description: 在 iOS 设备上使用 Shadowrocket 接入流量中继服务
 
 ![](../.gitbook/assets/image%20%2816%29.png)
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
 > 最后为了您的节点保持最新状态，我们推荐您打开 Shadowrocket 的 设置 - 服务器订阅
 
@@ -85,7 +85,7 @@ description: 在 iOS 设备上使用 Shadowrocket 接入流量中继服务
 
 > 打开「打开时更新」的选项。
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
 > 现在您可以享受 海豚湾云服务 接入点带来的全新国际网络访问体验。
 {% endtab %}

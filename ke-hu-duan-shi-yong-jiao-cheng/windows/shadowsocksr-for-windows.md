@@ -38,7 +38,7 @@ description: 在 Windows PC/平板 上使用 ShadowsocksR 客户端接入流量�
 
 > #### 3.配置订阅地址
 
-![](../../.gitbook/assets/image%20%2851%29.png)
+![](../../.gitbook/assets/image%20%2853%29.png)
 
 * 点击「**Add**」按钮
 * 右侧「**网址**」的「**输入框**」中粘贴刚才在官网复制的「**订阅地址**」
@@ -56,7 +56,7 @@ description: 在 Windows PC/平板 上使用 ShadowsocksR 客户端接入流量�
 一小段时间后（具体时间取决于您的网络环境），您将会收到 **服务器订阅更新成功** 的通知消息，同时查看服务器列表也可以看到对应的 海豚湾 接入点。
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2830%29.png)
 
 * 提示「**更新成功**」
 * 右键点击托盘栏的纸飞机图标 「**服务器**」**-** 「**海豚湾**」中选择节点使用
@@ -77,7 +77,7 @@ description: 在 Windows PC/平板 上使用 ShadowsocksR 客户端接入流量�
 
 * 右键点击托盘栏纸飞机图标，在「**代理规则** 」菜单中选择**「绕过局域网和大陆」**。
 
-![](../../.gitbook/assets/image%20%2841%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 * 再次右键点击托盘栏纸飞机图标，在**「系统代理模式」**菜单中选择**「全局」**。
 
