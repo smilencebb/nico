@@ -5,7 +5,7 @@ description: 在 iOS 设备上使用 Shadowrocket 接入流量中继服务
 # Shadowrocket for IOS
 
 | 系统要求： | iOS 9.0及以上  |
-| --- | --- |
+| :--- | :--- |
 | 设备要求： | iPhone、iPad & iPod touch |
 
 ## 配置订阅节点及使用教程

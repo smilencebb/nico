@@ -5,7 +5,7 @@ description: 在 macOS 上使用 ShadowsocksX-NG-R8 客户端接入流量中继�
 # ShadowsocksX-NG-R8 for macOS
 
 | 系统要求：  | Mac OSX |
-| --- | --- | --- |
+| :--- | :--- |
 | 软件版本：  | ShadowsocksX-NG-R8 |
 | 设备要求：  | MacBook / iMac / Mac Pro |
 

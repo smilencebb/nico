@@ -5,7 +5,7 @@ description: 在 Android 设备上使用 ShadowsocksR(R) App 接入流量中继�
 # ShadowsocksR for Android
 
 | 系统要求： | Android 4.4 及以上 |
-| --- | --- | --- |
+| :--- | :--- |
 | 软件版本： | ShadowsocksR 最新版 |
 | 设备要求： | Android Phone & Tablet |
 
