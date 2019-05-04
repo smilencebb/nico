@@ -13,8 +13,7 @@ description: 在 Android 设备上使用 ShadowsocksR(R) App 接入流量中继�
 
 完成以下简单配置步骤，即可享用海豚湾云服务。\(阁下可能需要花5~10分钟左右的时间完成教程\)
 
-{% tabs %}
-{% tab title="第一步\(软件安装\)" %}
+
 #### **请使用浏览器打开 海豚湾 用户中心 -查看快速添加节点**
 
 ![](../../.gitbook/assets/image%20%2831%29.png)
@@ -79,8 +78,7 @@ description: 在 Android 设备上使用 ShadowsocksR(R) App 接入流量中继�
 > 滑动页面到顶部，点击纸飞机图标连接，如果是首次连接，则系统会弹出如下的提示框，请点击「是」
 
 ![](../../.gitbook/assets/image%20%285%29.png)
-{% endtab %}
-{% endtabs %}
+
 
 ​
 
