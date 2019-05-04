@@ -15,7 +15,7 @@ description: 在 Windows PC/平板 上使用 ShadowsocksR 客户端接入流量�
 
 > #### 1.请使用浏览器打开 海豚湾 用户中心 - 查看快速添加节点
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/2019-05-05-at-3.50-am.png)
 
 * 点击下载 Windows 客户端文件并安装。
 * 复制订阅地址，配置客户端时需使用。

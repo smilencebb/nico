@@ -6,7 +6,8 @@
 
 * [Windows](shi-yong-jiao-cheng/windows/README.md)
   * [ShadowsocksR](shi-yong-jiao-cheng/windows/shadowsocksr-for-windows.md)
-* [ShadowsocksR for Android](shi-yong-jiao-cheng/shadowsocksr-for-android.md)
+* [Android](shi-yong-jiao-cheng/android/README.md)
+  * [ShadowsocksR](shi-yong-jiao-cheng/android/shadowsocksr-for-android.md)
 * [ShadowsocksX-NG-R8 for macOS](shi-yong-jiao-cheng/shadowsocksx-ng-r8-for-macos.md)
 * [Shadowrocket for IOS](shi-yong-jiao-cheng/shadowrocket-for-ios.md)
 
