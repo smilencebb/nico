@@ -2,7 +2,7 @@
 description: 在 iOS 设备上使用 Shadowrocket 接入流量中继服务
 ---
 
-# Shadowrocket for IOS
+# Shadowrocket\(小火箭\)
 
 | 系统要求： | iOS 9.0及以上  |
 | :--- | :--- |
@@ -16,7 +16,7 @@ description: 在 iOS 设备上使用 Shadowrocket 接入流量中继服务
 {% tab title="第一步\(软件安装\)" %}
 #### 请使用浏览器打开 海豚湾 用户中心 -查看快速添加节点
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 1. 此软件已从国区 App Store 下架，请自备账户从非国区下载
 2. 复制订阅地址，配置客户端时需使用。
@@ -31,19 +31,19 @@ description: 在 iOS 设备上使用 Shadowrocket 接入流量中继服务
 {% tab title="第二步\(节点配置\)" %}
 > 打开 Shadowrocket 点击右上角的 加号。
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 
 > 类型选择「Subscribe」，在 URL 里粘贴刚刚复制的链接，点击右上角「完成」 。
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
 > 返回首页后向左滑动点击「更新」，更新节点列表。
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 
 > 此时显示更新中，这可能需要一小段时间，具体根据网络情况而定。等待更新完成后回到首页即可看见您的所有节点。
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 #### 完成以上步骤后，进行第三步。
 {% endtab %}
@@ -55,7 +55,7 @@ description: 在 iOS 设备上使用 Shadowrocket 接入流量中继服务
 >
 > 点击最下方的配置项
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
 > 点击「远程文件」下方的「添加配置」。
 
@@ -65,27 +65,27 @@ description: 在 iOS 设备上使用 Shadowrocket 接入流量中继服务
 
 \*\*\*\*[**配置文件1**](https://raw.githubusercontent.com/lhie1/Rules/master/Shadowrocket.conf) **或** [**配置文件2**](https://raw.githubusercontent.com/scomper/Surge/master/surge.conf)   ****并粘贴到客户端中，点击下载。
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image%20%2835%29.png)
 
 > 点击远程文件下面我们刚刚添加的配置，选择 **使用配置** ，配置文件会进行更新，更新完成显示成功即可。
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 > 选择适合您的接入点后，点击最上面的「开关」启动服务，首次启动会出现下面的提示，点击「Allow」并输入您的 Apple ID 指纹或者密、码确定添加 Shadowrocket 为 VPN 应用即可。
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../../.gitbook/assets/image%20%2845%29.png)
 
 > 最后为了您的节点保持最新状态，我们推荐您打开 Shadowrocket 的 设置 - 服务器订阅
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 > 打开「打开时更新」的选项。
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 > 现在您可以享受 海豚湾云服务 接入点带来的全新国际网络访问体验。
 {% endtab %}
