@@ -26,11 +26,11 @@ description: 在 Windows PC/平板 上使用 ShadowsocksR 客户端接入流量�
 
 ### 2.打开 ShadowsocksR 客户端
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 * 根据系统.NET版本选择客户端。
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![](../../.gitbook/assets/image%20%2834%29.png)
 
 * 右键点击托盘栏的纸飞机图标
 * 关闭**「负载均衡」**
@@ -38,7 +38,7 @@ description: 在 Windows PC/平板 上使用 ShadowsocksR 客户端接入流量�
 
 ### 3.配置订阅地址
 
-![](../../.gitbook/assets/image%20%2854%29.png)
+![](../../.gitbook/assets/image%20%2862%29.png)
 
 * 点击「**Add**」按钮
 * 右侧「**网址**」的「**输入框**」中粘贴刚才在官网复制的「**订阅地址**」
@@ -46,7 +46,7 @@ description: 在 Windows PC/平板 上使用 ShadowsocksR 客户端接入流量�
 
 ### 4.更新订阅
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 * 再次右键点击托盘栏纸飞机图标，在「**服务器订阅**」选项卡中选择  **更新 SSR 服务器订阅（不通过代理）**
 
@@ -56,7 +56,7 @@ description: 在 Windows PC/平板 上使用 ShadowsocksR 客户端接入流量�
 一小段时间后（具体时间取决于您的网络环境），您将会收到 **服务器订阅更新成功** 的通知消息，同时查看服务器列表也可以看到对应的 海豚湾 接入点。
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2838%29.png)
 
 * 提示「**更新成功**」
 * 右键点击托盘栏的纸飞机图标 「**服务器**」**-** 「**海豚湾**」中选择节点使用
@@ -73,11 +73,11 @@ description: 在 Windows PC/平板 上使用 ShadowsocksR 客户端接入流量�
 
 ### 5.配置规则
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 * 右键点击托盘栏纸飞机图标，在「**代理规则** 」菜单中选择**「绕过局域网和大陆」**。
 
-![](../../.gitbook/assets/image%20%2844%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
 * 再次右键点击托盘栏纸飞机图标，在**「系统代理模式」**菜单中选择**「全局」**。
 
