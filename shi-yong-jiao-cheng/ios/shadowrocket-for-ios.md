@@ -63,7 +63,7 @@ description: 在 iOS 设备上使用 Shadowrocket 接入流量中继服务
 海豚湾 提供下列两个配置文件备选。请长按或者右键复制链接。
 ```
 
-\*\*\*\*[**配置文件1**](https://raw.githubusercontent.com/lhie1/Rules/master/Shadowrocket.conf) **或** [**配置文件2**](https://raw.githubusercontent.com/scomper/Surge/master/surge.conf)   ****并粘贴到客户端中，点击下载。
+\*\*\*\*[**配置文件**](https://raw.githubusercontent.com/lhie1/Rules/master/Shadowrocket.conf)  ****并粘贴到客户端中，点击下载。
 
 ![](../../.gitbook/assets/image%20%2842%29.png)
 
