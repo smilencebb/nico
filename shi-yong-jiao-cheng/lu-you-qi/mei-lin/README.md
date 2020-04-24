@@ -6,7 +6,11 @@
 以下内容转自 fancyss 项目，项目对于梅林固件有非常详细的教程及帮助稳定，海豚湾不对梅林固件的刷写、安装提供任何技术支持。
 {% endhint %}
 
-{% page-ref page="./" %}
+{% hint style="info" %}
+如您已经刷写完成了梅林固件，请直接查看梅林Merlin插件安装及配置
+{% endhint %}
+
+{% page-ref page="mei-lin-merlin-cha-jian-an-zhuang-ji-pei-zhi.md" %}
 
 \*\*\*\*[**fancyss - 科学上网**](https://hq450.github.io/fancyss/)\*\*\*\*
 
