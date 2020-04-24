@@ -21,11 +21,11 @@
 | 维护状态 | 维护中 | 维护中 | **停止维护** | **停止维护** | **备份留存** |
 | 最新版本 | **1.8.1** | **1.0.4** | **4.2.2** | **3.0.4？** | **2.2.2** |
 | 插件名称 | 科学上网 | 科学上网 | 科学上网 | 科学上网 | koolss |
-| 节点管理 | :heavy\_check\_mark: | :heavy\_check\_mark: | :heavy\_check\_mark: | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| ss支持 | :heavy\_check\_mark: | :heavy\_check\_mark: | :heavy\_check\_mark: | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| ssr支持 | :heavy\_check\_mark: | :heavy\_check\_mark: | :heavy\_check\_mark: | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| 游戏模式 | :heavy\_check\_mark: | :heavy\_check\_mark: | :heavy\_check\_mark: | :x: | :heavy\_check\_mark: |
-| 节点订阅 | :heavy\_check\_mark: | :heavy\_check\_mark: | :heavy\_check\_mark: | :x: | :heavy\_check\_mark: |
+| 节点管理 | √ | √ | √ | √ | √ |
+| ss支持 | √ | √ | √ | √ | √ |
+| ssr支持 | √ | √ | √ | √ | √ |
+| 游戏模式 | √ | √ | ✅ | ❎ | ✅ |
+| 节点订阅 | ✅ | ✅ | ✅ | :x: | :heavy\_check\_mark: |
 | 回国模式 | :heavy\_check\_mark: | :heavy\_check\_mark: | :heavy\_check\_mark: | :x: | :x: |
 | v2ray支持 | :heavy\_check\_mark: | :heavy\_check\_mark: | :heavy\_check\_mark: | :x: | :x: |
 | koolgame支持 | :heavy\_check\_mark: | :heavy\_check\_mark: | :heavy\_check\_mark: | :x: | :x: |
