@@ -19,5 +19,5 @@
 
 ## 常见问题
 
-* [关于Netflix](guan-yu-netflix.md)
+* [Netflix 问题](guan-yu-netflix.md)
 
