@@ -14,17 +14,21 @@ description: 在 macOS 设备上使用 专属 App 接入流量中继服务
 
 ## 2.打开安装的 DolphinCloud 应用程序并登陆
 
-![&#x9996;&#x6B21;&#x6253;&#x5F00;&#x8BF7;&#x8F93;&#x5165;&#x5BC6;&#x7801;&#x5141;&#x8BB8;](../../.gitbook/assets/image%20%2859%29.png)
+![](../../.gitbook/assets/image%20%2859%29.png)
+
+* 首次打开请输入密码允许
 
 {% hint style="info" %}
-因客户端图标为纯黑色透明，如您任务栏也是纯黑色或深色，则会很难看到任务栏的海豚图标
+#### 因客户端图标为纯黑色透明，如您任务栏也是纯黑色或深色，则会很难看到任务栏的海豚图标
 {% endhint %}
 
 ![](../../.gitbook/assets/screenshot.png)
 
 ## **3.客户端的使用及配置**
 
-![macOS &#x7248;&#x672C;&#x53EA;&#x6709;&#x81EA;&#x52A8;&#x4EE3;&#x7406;&#x548C;&#x5168;&#x5C40;&#x4EE3;&#x7406;](../../.gitbook/assets/2.png)
+![](../../.gitbook/assets/2.png)
+
+* **macOS 版本只有自动代理和全局代理**
 
 ## **4.连接使用**
 

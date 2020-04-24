@@ -15,14 +15,16 @@ description: 在 Windows 设备上使用 专属 App 接入流量中继服务
 ## 2.打开安装的 DolphinCloud 应用程序并登陆
 
 {% hint style="info" %}
-因客户端图标为纯黑色透明，如您任务栏也是纯黑色或深色，则会很难看到任务栏的海豚图标
+#### 因客户端图标为纯黑色透明，如您任务栏也是纯黑色或深色，则会很难看到任务栏的海豚图标
 {% endhint %}
 
 ![](../../.gitbook/assets/screenshot.png)
 
 ## **3.客户端的使用及配置**
 
-![Windows &#x7248;&#x672C;&#x53EA;&#x6709;&#x81EA;&#x52A8;&#x4EE3;&#x7406;&#x548C;&#x5168;&#x5C40;&#x4EE3;&#x7406;](../../.gitbook/assets/2.png)
+![](../../.gitbook/assets/2.png)
+
+* **Windows 版本只有自动代理和全局代理**
 
 ## **4.连接使用**
 
