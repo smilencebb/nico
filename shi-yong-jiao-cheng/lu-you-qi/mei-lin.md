@@ -21,19 +21,19 @@
 | 维护状态 | 维护中 | 维护中 | **停止维护** | **停止维护** | **备份留存** |
 | 最新版本 | **1.8.1** | **1.0.4** | **4.2.2** | **3.0.4？** | **2.2.2** |
 | 插件名称 | 科学上网 | 科学上网 | 科学上网 | 科学上网 | koolss |
-| 节点管理 | √ | √ | √ | √ | √ |
-| ss支持 | √ | √ | √ | √ | √ |
-| ssr支持 | √ | √ | √ | √ | √ |
-| 游戏模式 | √ | √ | ✅ | ❎ | ✅ |
-| 节点订阅 | ✅ | ✅ | ✅ | :x: | :heavy\_check\_mark: |
-| 回国模式 | :heavy\_check\_mark: | :heavy\_check\_mark: | :heavy\_check\_mark: | :x: | :x: |
-| v2ray支持 | :heavy\_check\_mark: | :heavy\_check\_mark: | :heavy\_check\_mark: | :x: | :x: |
-| koolgame支持 | :heavy\_check\_mark: | :heavy\_check\_mark: | :heavy\_check\_mark: | :x: | :x: |
-| 节点排序 | :heavy\_check\_mark: | :heavy\_check\_mark: | :x: | :x: | :heavy\_check\_mark: |
-| 故障转移 | :heavy\_check\_mark: | :heavy\_check\_mark: | :x: | :x: | :x: |
-| v2ray-plugin | :heavy\_check\_mark: | :heavy\_check\_mark: | :heavy\_check\_mark: | :x: | :x: |
-| 多核支持 | :heavy\_check\_mark: | :x: | :x: | :x: | :x: |
-| tcp\_fast\_open | :heavy\_check\_mark: | :x: | :x: | :x: | :x: |
+| 节点管理 | ✅ | ✅ | ✅ | ✅ | ✅ |
+| ss支持 | ✅ | ✅ | ✅ | ✅ | ✅ |
+| ssr支持 | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 游戏模式 | ✅ | ✅ | ✅ | ❌ | ✅ |
+| 节点订阅 | ✅ | ✅ | ✅ | ❌ | ✅ |
+| 回国模式 | ✅ | ✅ | ✅ | ❌ | ❌ |
+| v2ray支持 | ✅ | ✅ | ✅ | ❌ | ❌ |
+| koolgame支持 | ✅ | ✅ | ✅ | ❌ | ❌ |
+| 节点排序 | ✅ | ✅ | ❌ | ❌ | ✅ |
+| 故障转移 | ✅ | ✅ | ❌ | ❌ | ❌ |
+| v2ray-plugin | ✅ | ✅ | ✅ | ❌ | ❌ |
+| 多核支持 | ✅ | ❌ | ❌ | ❌ | ❌ |
+| tcp\_fast\_open | ✅ | ❌ | ❌ | ❌ | ❌ |
 | 固件下载-1 | [RT-AC86U 梅林改版](http://koolshare.cn/thread-127878-1-1.html) | [华硕系列](https://koolshare.cn/thread-164857-1-1.html) | [华硕系列](https://koolshare.cn/thread-139322-1-1.html) | [华硕系列](http://koolshare.cn/forum-96-1.html) |  |
 | 固件下载-2 | [RT-AC86U 官改固件](http://koolshare.cn/thread-139965-1-1.html) |  | [网件系列](https://koolshare.cn/thread-139324-1-1.html) |  |  |
 | 固件下载-3 | [GT-AC5300 官改固件](http://koolshare.cn/thread-130902-1-1.html) |  | [linksys EA系列](https://koolshare.cn/thread-139325-1-1.html) |  |  |
