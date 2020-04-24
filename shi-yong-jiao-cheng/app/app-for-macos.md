@@ -10,7 +10,7 @@ description: 在 macOS 设备上使用 专属 App 接入流量中继服务
 
 ## 1.请点击下方的下载地址开始下载并安装
 
-[下载地址 1](https://oss-hitun.sgp1.cdn.digitaloceanspaces.com/app/DolphinCloud.exe)    [下载地址 2](http://app.hitun.me/DolphinCloud.exe)
+[下载地址 1](https://oss-hitun.sgp1.cdn.digitaloceanspaces.com/app/DolphinCloud.dmg)    [下载地址 2](http://app.hitun.me/DolphinCloud.dmg)
 
 ## 2.打开安装的 DolphinCloud 应用程序并登陆
 
