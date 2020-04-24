@@ -15,3 +15,7 @@
 * [专属客户端\(适合新手\)](shi-yong-jiao-cheng/app/README.md)
   * [App for Android](shi-yong-jiao-cheng/app/zhuan-shu-app-for-android.md)
 
+## 常见问题
+
+* [关于Netflix](guan-yu-netflix.md)
+
