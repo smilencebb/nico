@@ -6,6 +6,8 @@
 以下内容转自 fancyss 项目，项目对于梅林固件有非常详细的教程及帮助稳定，海豚湾不对梅林固件的刷写、安装提供任何技术支持。
 {% endhint %}
 
+{% page-ref page="./" %}
+
 \*\*\*\*[**fancyss - 科学上网**](https://hq450.github.io/fancyss/)\*\*\*\*
 
 > Fancyss is a project providing tools to across the GFW on asuswrt/merlin/openwrt based router with software center.
