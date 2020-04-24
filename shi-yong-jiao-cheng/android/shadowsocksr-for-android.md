@@ -58,7 +58,7 @@ description: 在 Android 设备上使用 ShadowsocksR(R) App 接入流量中继�
 * 勾选 **自动更新**。
 * 点击**「确定并升级」**就可以导入最新的 海豚湾 接入点信息并自动更新了。
 * 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 * 在节点列表中选择适合您的节点
 
