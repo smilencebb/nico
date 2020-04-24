@@ -2,17 +2,17 @@
 
 ## 梅林固件刷写及所需插件下载
 
-{% hint style="warning" %}
-以下内容转自 fancyss 项目，项目对于梅林固件有非常详细的教程及帮助稳定，海豚湾不对梅林固件的刷写、安装提供任何技术支持。
-{% endhint %}
-
 {% hint style="info" %}
-如您已经刷写完成了梅林固件，请直接查看梅林Merlin插件安装及配置
+如您已经完成了刷写梅林固件，请直接查看梅林Merlin插件安装及配置
 {% endhint %}
 
 {% page-ref page="mei-lin-merlin-cha-jian-an-zhuang-ji-pei-zhi.md" %}
 
-\*\*\*\*[**fancyss - 科学上网**](https://hq450.github.io/fancyss/)\*\*\*\*
+{% hint style="warning" %}
+以下内容转自 fancyss 项目，项目对于梅林固件提供了非常详细的教程及帮助文档，海豚湾不对梅林固件的刷写、安装提供任何技术支持。
+{% endhint %}
+
+[**fancyss - 科学上网**](https://hq450.github.io/fancyss/)\*\*\*\*
 
 > Fancyss is a project providing tools to across the GFW on asuswrt/merlin/openwrt based router with software center.
 >
