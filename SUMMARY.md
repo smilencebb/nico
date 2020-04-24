@@ -12,4 +12,6 @@
   * [ShadowsocksR](shi-yong-jiao-cheng/android/shadowsocksr-for-android.md)
 * [IOS](shi-yong-jiao-cheng/ios/README.md)
   * [Shadowrocket\(小火箭\)](shi-yong-jiao-cheng/ios/shadowrocket-for-ios.md)
+* [专属客户端\(适合新手\)](shi-yong-jiao-cheng/app/README.md)
+  * [App for Android](shi-yong-jiao-cheng/app/zhuan-shu-app-for-android.md)
 
