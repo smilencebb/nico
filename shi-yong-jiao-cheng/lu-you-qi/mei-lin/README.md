@@ -1,4 +1,10 @@
-# 梅林
+# 梅林Merlin
+
+## 梅林固件刷写及所需插件下载
+
+{% hint style="warning" %}
+以下内容转自 fancyss 项目，项目对于梅林固件有非常详细的教程及帮助稳定，海豚湾不对梅林固件的刷写、安装提供任何技术支持。
+{% endhint %}
 
 \*\*\*\*[**fancyss - 科学上网**](https://hq450.github.io/fancyss/)\*\*\*\*
 
