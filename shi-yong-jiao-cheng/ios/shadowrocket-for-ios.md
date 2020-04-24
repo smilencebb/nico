@@ -60,10 +60,12 @@ description: 在 iOS 设备上使用 Shadowrocket 接入流量中继服务
 > 点击「远程文件」下方的「添加配置」。
 
 ```text
-海豚湾 提供下列两个配置文件备选。请长按或者右键复制链接。
+海豚湾 提供下列配置文件，请长按或者右键复制链接。
 ```
 
-\*\*\*\*[**配置文件**](https://raw.githubusercontent.com/lhie1/Rules/master/Shadowrocket/Complete.conf)  ****并粘贴到客户端中，点击下载。
+\*\*\*\*[**https://raw.githubusercontent.com/lhie1/Rules/master/Shadowrocket/Complete.conf**](https://raw.githubusercontent.com/lhie1/Rules/master/Shadowrocket/Complete.conf)  ****
+
+粘贴配置文件地址到客户端中，点击下载。
 
 ![](../../.gitbook/assets/image%20%2842%29.png)
 

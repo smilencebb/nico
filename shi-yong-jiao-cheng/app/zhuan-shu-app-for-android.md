@@ -4,23 +4,23 @@ description: 在 Android 设备上使用 专属 App 接入流量中继服务
 
 # App for Android
 
-## 1.下载安装及使用教程
+## 下载安装及使用教程
 
 完成以下简单配置步骤，即可享用海豚湾云服务。\(阁下可能需要花3~5分钟左右的时间完成教程\)
 
-## 2.请点击下方的下载地址开始下载并安装
+## 1.请点击下方的下载地址开始下载并安装
 
 [下载地址 1](https://oss-hitun.sgp1.cdn.digitaloceanspaces.com/app/DolphinCloud.apk)    [下载地址 2](http://app.hitun.me/DolphinCloud.apk)
 
-## 3.打开安装的 DolphinCloud 应用程序并登陆
+## 2.打开安装的 DolphinCloud 应用程序并登陆
 
 ![](../../.gitbook/assets/1.png)
 
-## **4.客户端的使用及配置**
+## **3.客户端的使用及配置**
 
 ![](../../.gitbook/assets/2.png)
 
-## **5.连接使用**
+## **4.连接使用**
 
 ![](../../.gitbook/assets/3.png)
 
