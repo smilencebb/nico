@@ -23,4 +23,5 @@
 ## 常见问题
 
 * [Netflix 问题](guan-yu-netflix.md)
+* [回国节点审核](hui-guo-jie-dian-shen-he.md)
 
