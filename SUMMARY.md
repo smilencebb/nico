@@ -15,7 +15,7 @@
 * [路由器](shi-yong-jiao-cheng/lu-you-qi/README.md)
   * [梅林Merlin](shi-yong-jiao-cheng/lu-you-qi/mei-lin/README.md)
     * [梅林Merlin插件安装及配置](shi-yong-jiao-cheng/lu-you-qi/mei-lin/mei-lin-merlin-cha-jian-an-zhuang-ji-pei-zhi.md)
-* [专属客户端\(适合新手\)](shi-yong-jiao-cheng/app/README.md)
+* [专属客户端基于Clash\(推荐\)](shi-yong-jiao-cheng/app/README.md)
   * [App for macOS](shi-yong-jiao-cheng/app/app-for-macos.md)
   * [App for Windows](shi-yong-jiao-cheng/app/app-for-windows.md)
   * [App for Android](shi-yong-jiao-cheng/app/zhuan-shu-app-for-android.md)
